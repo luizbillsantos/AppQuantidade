@@ -23,9 +23,9 @@
 	<key>MinimumOSVersion</key>
 	<string>8.0</string>
 	<key>CFBundleDisplayName</key>
-	<string>AppQuantidade</string>
+	<string>App Quantidade</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.companyname.AppQuantidade</string>
+	<string>com.billsoft.AppQuantidade</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>UILaunchStoryboardName</key>
@@ -34,5 +34,7 @@
 	<string>AppQuantidade</string>
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/Icone.appiconset</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1</string>
 </dict>
 </plist>
